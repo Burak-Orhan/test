@@ -121,7 +121,7 @@ style.textContent = `
         cursor: pointer;
     }
 `;
-document.head.appendChild(style);
+document.head.appendChild(style); 
 
 // Başlangıç HTML Yapısı
 const body = document.body;
